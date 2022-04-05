@@ -1,0 +1,6 @@
+[submodule "deps/cpp-dotenv"]
+	path = deps/cpp-dotenv
+	url = https://github.com/adeharo9/cpp-dotenv.git
+[submodule "deps/sleepy-discord"]
+	path = deps/sleepy-discord
+	url = https://github.com/yourWaifu/sleepy-discord.git
