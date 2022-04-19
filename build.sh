@@ -4,7 +4,7 @@ printf "Setting up submodules..."
 
 git submodule init && git submodule update
 
-printf "Setting up build enviornment..."
+printf "Setting up build environment..."
 
 mkdir build && cd build
 touch .env
